@@ -13,7 +13,7 @@
 
   JARVIS is a fully responsive Virtual Assistant, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-   <a href="https://adnan-bhaldar.github.io/JARVIS-Virtual-Assistant/"><strong>➥ Live Demo</strong></a>
+   <a href="https://adnan-bhaldar.github.io/JARVIS-Virtual-Assistant/" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
 
